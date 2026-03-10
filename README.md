@@ -59,7 +59,7 @@ L'arme est entièrement modélisée en 3D avec :
 | Ennemi | Cliché | HP | Danger |
 |--------|--------|-----|--------|
 | **Cyber Junior** (Stage) | *"CVE trouvée sur Wikipédia"* | 3 | ⭐ |
-| **Cyber Senior** (10 ans XP) | *"Zero trust. Sauf pour moi."* | 7 | ⭐⭐ |
+| **Cyber Senior** (10 ans XP) | *"Zero trust. Sauf pour moi."* | 8 | ⭐⭐⭐ |
 | **Dev Junior** (6 mois) | *"Stack Overflow c'est la doc"* | 3 | ⭐ |
 | **Software Architect** (Senior) | *"Tout en microservices"* | 8 | ⭐⭐⭐ |
 | **Data Junior** (Alternance) | *"Pie chart en CSS"* | 3 | ⭐ |
