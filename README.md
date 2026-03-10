@@ -224,7 +224,10 @@ Rendering:
 
 ## 📸 Screenshots
 
-> *(À venir — ouvrez le jeu et faites F12 → Console → `renderer.domElement.toDataURL()` pour capturer)*
+> <img width="2539" height="1306" alt="image" src="https://github.com/user-attachments/assets/6f17cf82-6a5f-40b2-ab08-cc36c3b6775a" />
+<img width="2535" height="1308" alt="image" src="https://github.com/user-attachments/assets/f170e8fb-d722-4db8-953d-b3a55ede9ada" />
+
+
 
 ---
 
